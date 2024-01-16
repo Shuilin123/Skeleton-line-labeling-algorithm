@@ -14,4 +14,4 @@ See `blob.h` for a complete documentation.
 2.Run devc++ to open Skeleton line labeling algorithm based on linear time component labeling.dev
 3.Click the "Compile & Run" button
 ## acknowledgement
-BlockoS
+BlockoS (2016) blob/blob.h [Source code]. https://github.com/BlockoS/blob/blob/master/blob.h
