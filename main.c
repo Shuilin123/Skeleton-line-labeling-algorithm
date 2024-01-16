@@ -195,9 +195,9 @@ int main(int argc, char **argv){
     roi_x = roi_y = 0;
     roi_w = roi_h = -1;
     char file_name[100],out_file[100];
-    printf("Step1. please enter the image to be processed(.\\input\\dummy1.png):");
+    printf("Step1. please enter the image to be processed(.\\input\\fai_15_noise_nn10.png):");
     scanf("%s",file_name);
-    printf("Setp2. please enter the path and name of the processed image(.\\result\\dummy1.png):");
+    printf("Setp2. please enter the path and name of the processed image(.\\result\\result.png):");
     scanf("%s",out_file);
 	printf("Processing....\n");
 	start = clock(); 
