@@ -1,5 +1,6 @@
 # Skeleton line labeling algorithm based on linear time component labeling
-
+## introduce
+  This is a completely c language implementation of the skeleton line identification program, the program does not rely on other image library to achieve skeleton line identification and image generation.
 ## blob - a 8-neighbour connected components labelling and contours extractor.
 
 See `blob.h` for a complete documentation.
